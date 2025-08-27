@@ -72,4 +72,3 @@ print("🤖 Price Bot запущен...")
 bot.polling(none_stop=True)
 
 
-
